@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Briddy Morris.
-- 👀 I’m interested in backend development.
+- 👀 I’m interested in python development.
 - 🌱 I’m currently learning Python, Django, and SQL.
 - 😄 Pronouns: She/her
 
